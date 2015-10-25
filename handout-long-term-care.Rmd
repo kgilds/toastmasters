@@ -1,0 +1,53 @@
+---
+title: 'Your Plans for Long Term Care Are What?'
+author: "Kevin Gilds"
+date: "Monday, October 05, 2015"
+output: pdf_document
+---
+
+
+# Main Services from the Senior Connection Center
+
+
+## Information and Referral--Elder Help Line. 
+
+Referral to community resources that help seniors. Example of items that people call for assistance. 
+
+* Utility Assistance
+* Housing
+* Food Banks
+* Transportation
+* Referral to SHINE (see below)
+* Referral to Long Term Care
+
+## SHINE: Serving Health Insurance Needs of Elders:
+
+Specially trained volunteers can assist you with your Medicare, Medicaid, and health insurance questions by providing one-on-one counseling and information. SHINE services are free, unbiased, and confidential.
+
+* http://www.floridashine.org/
+
+
+  
+## Long Term Care:
+
+* Screening
+
+* Re-screening 
+
+* Long Term Care Education
+
+* Assistance through the eligibility process 
+
+* Assistance with Medicaid Application
+
+* Return to Pipeline
+
+* Lost eligibility
+
+## Contact Information for Senior Connection Center
+
+* http://seniorconnectioncenter.org/
+
+* Elder Help Line: 1-800-96-Elder
+
+
